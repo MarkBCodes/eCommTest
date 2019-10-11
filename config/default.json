@@ -1,4 +1,3 @@
-  
 {
-    "mongoURI": "mongodb://localhost:27017/Merch"
+  "mongoURI": "mongodb+srv://n0bodi42:m1a2r3k4@cluster0-nmna4.mongodb.net/test?retryWrites=true&w=majority"
 }
